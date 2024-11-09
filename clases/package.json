@@ -1,0 +1,16 @@
+{
+  "name": "proyecto1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^2.1.4",
+    "vitest": "^2.1.4"
+  }
+}

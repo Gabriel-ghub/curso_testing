@@ -1,0 +1,12 @@
+#Test de integración
+
+
+#Metodos mas importantes
+
+## ToMatchObject
+expect(response.body).toMatchObject({
+      id: expect.any(Number),
+      name: "Gabriel",
+});
+
+## Librería supertest

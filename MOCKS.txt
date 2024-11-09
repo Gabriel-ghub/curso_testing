@@ -1,0 +1,17 @@
+#MOCKS
+
+Son objetos que simulan un comportamiento que esperamos
+
+# Usos
+- Sustituir dependencia
+- Controlar el entorno de pruebas
+- Aislar pruebas
+- Registrar interacciones
+
+Ejemplos, podemos crear una sola funcion que se utiliza en un modulo completo.
+
+
+#SPYS
+
+Una forma especifica de hacer mocking.
+Cuando te pase ALGO, haras OTRA cosa.
